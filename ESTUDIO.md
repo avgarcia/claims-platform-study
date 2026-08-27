@@ -29,3 +29,4 @@ los límites verificados por tests.
 ## Bitácora
 
 - 2026-08-27 · Bootstrap del monorepo: estructura de carpetas, git init, remoto público en GitHub (`avgarcia/claims-platform-study`).
+- 2026-08-27 · 1 h · Teoría: taxonomía de consistencia (linealizabilidad, causal, read-your-writes, lecturas monótonas, prefijo consistente) con ejemplos de siniestros. Profundizado el mecanismo de read-your-writes vía token atado a identidad frente a sticky routing. Sin código tocado. Nota nueva en la KB: `consistencia-modelos-sistemas-distribuidos`.
